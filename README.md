@@ -4,7 +4,7 @@
 
 <div align="height">
   <a href="https://github.com/redznn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ffraanks&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=redznn&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffraanks&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
  <div>

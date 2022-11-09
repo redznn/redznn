@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi human! 👋
 
-<!--
-**redznn/redznn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--  <img align="center" height="250" style="border-radius:50px;" src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif"> -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="height">
+  <a href="https://github.com/redznn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ffraanks&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffraanks&layout=compact&langs_count=7&theme=gruvbox"/>
+</div>
+ <div>
+  <a href = "https://t.me/redznn"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:h908659@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+![Snake animation](https://github.com/ffraanks/ffraanks/blob/output/github-contribution-grid-snake.svg)
+</div>
+  
